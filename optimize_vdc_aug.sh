@@ -1,0 +1,11 @@
+python scripts/CondMapping_Aug.py \
+--input_imgs "datasets/rain/source/001.png" \
+--reference_imgs "datasets/rain/target/001.png" \
+--inference-imgs "datasets/rain/source" \
+--outdir "outputs/vdc_train_rain_aug" \
+--num-train-samples 1 \
+--opt_cond_itrs 200 \
+--batch_size 4 \
+--ddim_steps 100 \
+--scale 7.0 \
+--strength 0.1

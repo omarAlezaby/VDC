@@ -1,0 +1,11 @@
+python scripts/CondMapping.py \
+--input_imgs "datasets/rain/source" \
+--reference_imgs "datasets/rain/target" \
+--inference-imgs "datasets/rain/source" \
+--outdir "outputs/vdc_train_rain" \
+--num-train-samples 8 \
+--opt_cond_itrs 200 \
+--batch_size 4 \
+--ddim_steps 100 \
+--scale 7.0 \
+--strength 0.1 \
