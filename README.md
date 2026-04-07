@@ -8,14 +8,14 @@
 
 #### **Computer Vision Lab, University of Würzburg, Germany**
 
-[![paper](https://img.shields.io/badge/ArXiv-paper-<COLOR>.svg)]()
-[![project](https://img.shields.io/badge/Project-page-brightgreen)]()
+[![paper](https://img.shields.io/badge/ArXiv-paper-<COLOR>.svg)](https://arxiv.org/abs/2603.25441v1)
+[![project](https://img.shields.io/badge/Project-page-brightgreen)](https://omaralezaby.github.io/vdc/)
 
 <img width=30% style="background-color: white;" src = "assets/teaser.png">
 
 ## Latest
-- `10/03/2026`: Full code release.
-- `10/03/2026`: Paper Released on Arxiv
+- `07/04/2026`: Full code release.
+- `27/03/2026`: Paper Released on Arxiv
 - `21/02/2026`: Our work got accepted at CVPR 2026!🎉
 
 ## Method
